@@ -1,1 +1,1 @@
-# leetcode_practices
+# Coding Practices

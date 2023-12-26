@@ -2,4 +2,4 @@
 
 ## projects
 
-- [ x ] socket: send file (use epoll)
+- [x] socket: send file (use epoll)

@@ -4,3 +4,6 @@
 [submodule "libs/traceroute"]
 	path = libs/traceroute
 	url = https://github.com/bgylde/traceroute.git
+[submodule "examples/ipc-bench"]
+	path = examples/ipc-bench
+	url = https://github.com/rigtorp/ipc-bench.git

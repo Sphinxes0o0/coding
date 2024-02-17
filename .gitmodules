@@ -1,6 +1,6 @@
 [submodule "libs/libping"]
 	path = libs/libping
 	url = https://github.com/bgylde/libping.git
-[submodule "libs/libs/traceroute"]
-	path = libs/libs/traceroute
+[submodule "libs/traceroute"]
+	path = libs/traceroute
 	url = https://github.com/bgylde/traceroute.git

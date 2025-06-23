@@ -31,4 +31,29 @@
 *.out
 *.app
 
-.vscode
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build directories
+build/
+dist/
+target/
+
+# Test files
+test_*
+*.dat
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Core dumps
+core.*
